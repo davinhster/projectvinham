@@ -1,0 +1,274 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get_object",
+				"get_object_or_404"
+			],
+			[
+				"Cour",
+				"CourseListView"
+			],
+			[
+				"Article",
+				"ArticleUpdateView"
+			],
+			[
+				"Ar",
+				"ArticleModelForm"
+			],
+			[
+				"product_",
+				"product_update_view"
+			],
+			[
+				"produc",
+				"product_create_view"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"prod",
+				"product_redirect_view"
+			],
+			[
+				"dynamic",
+				"dynamic_lookup_view"
+			],
+			[
+				"product_de",
+				"product_detail"
+			],
+			[
+				"ini",
+				"initial_data"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"pro",
+				"product_detail_view"
+			],
+			[
+				"we",
+				"welcome"
+			],
+			[
+				"my",
+				"my_list"
+			],
+			[
+				"contact",
+				"contact_view"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/davinhster/Desktop/Development/playground_v1/playground_v1",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/templates/products/product_create.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/templates/course/course_create.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/templates/course/course_list.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/templates/course_update.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/views.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/views.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/templates/products/product_list.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/models.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testproject/urls.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/urls.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/contact.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/urls.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/untitled.sublime-project",
+		"/Users/davinhster/Desktop/Development/testenv/src/testproject/settings.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/admin.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/admin.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/models.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/courses/templates/course/about.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/templates/articles/article_list.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/models.py",
+		"/Users/davinhster/Desktop/Development/testenv/testenv.sublime-project",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/forms.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/blog/templates/articles/article_detail.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/admin.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/forms.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/templates/products/product_detail.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/templates/products/product_delete.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/pages/views.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/testapplication/templates/products/product_search.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/search.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/navbar.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/base.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/products/views.py",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/product/detail.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/products/product_detail.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/product",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/about.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/home.html",
+		"/Users/davinhster/Desktop/Development/testenv/src/templates/navbar",
+		"/Users/davinhster/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davinhster/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/davinhster/Desktop/Development/testenv/src/testproject/testproject/settings.py"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "playground_v1.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

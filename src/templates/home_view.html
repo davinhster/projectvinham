@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<h1> Hello, World! </h1>
+
+
+<form method = "POST">
+	{% csrf_token %}
+		{{form}}
+
+<input type = "submit" value = "Post!">
+
+
+
+<div class = "alert-primary" role = "alert">
+{% for instance in object_list %}
+
+	<p> {{instance.name}} - {{instance.post}}</a></p>
+
+{% endfor %}
+</div>
+
+
+
+
+{% endblock %}
