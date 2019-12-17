@@ -1,1 +1,1 @@
-web: gunicorn playground_v1.wsgi
+web: gunicorn playground_v1.wsgi --log-file -
