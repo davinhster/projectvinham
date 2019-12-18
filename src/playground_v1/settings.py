@@ -45,7 +45,7 @@ INSTALLED_APPS = [
     'accounts',
     'blog',
 
-    'herokuapp',
+
 
 
 
@@ -161,7 +161,6 @@ import dj_database_url
 prod_db  =  dj_database_url.config(conn_max_age=500)
 DATABASES['default'].update(prod_db)
 
-ALLOWED_HOSTS = ['vinham.herokuapp.com']
-
+ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1','vinham.herokuapp.com']
 
 
