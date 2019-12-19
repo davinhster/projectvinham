@@ -1,3 +1,3 @@
 # projectvinham
 
-vinham.herokuapp.com
+http://vinham.herokuapp.com
