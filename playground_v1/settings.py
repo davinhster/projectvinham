@@ -168,20 +168,6 @@ DATABASES['default'].update(prod_db)
 
 ALLOWED_HOSTS = ['198.211.99.20', 'localhost', '127.0.0.1','vinham.herokuapp.com']
 
-LOGGING = {
-    'version': 1,
-    'disable_existing_loggers': False,
-    'handlers': {
-        'console': {
-            'class': 'logging.StreamHandler',
-        },
-    },
-    'loggers': {
-        'django': {
-            'handlers': ['console'],
-             'level': os.getenv('DJANGO_LOG_LEVEL', 'DEBUG'),
-        },
-    },
-}
+
 
 
