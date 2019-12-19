@@ -10,7 +10,7 @@ from django.contrib.auth.models import User
 # Create your views here.
 
 
-@login_required
+#@login_required
 def post_view(request):
 	form = PostForm(request.POST or None)
 
@@ -42,7 +42,7 @@ def post_view(request):
 	return render(request,"home_view.html",context)
 
 
-@login_required
+#@login_required
 def edit_view(request):
 
 
